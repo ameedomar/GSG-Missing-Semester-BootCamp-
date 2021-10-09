@@ -5,4 +5,9 @@ int main(){
     while(var < 10^6){
         print("ameed is not a good person");
     }
+
+int main () {
+
+    {Hi AbuSaa()};
+    {Hello there ameed()};
 }
