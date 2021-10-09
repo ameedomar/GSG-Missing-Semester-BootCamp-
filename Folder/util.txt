@@ -1,5 +1,6 @@
 #include <algorithm>
 #include <vectror>
+#include <map>
 using namespace std;
 bool compareFunc(int a,int b){
     return a<b;
