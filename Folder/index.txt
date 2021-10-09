@@ -1,2 +1,9 @@
 Hi AbuSaa ("I Love U"); 
 Hello there ameed("I hate U <3");
+
+
+int main () {
+
+    {Hi AbuSaa()};
+    {Hello there ameed()};
+}
