@@ -6,4 +6,5 @@ int main () {
 
     {Hi AbuSaa()};
     {Hello there ameed()};
+    {git checkout();}
 }
