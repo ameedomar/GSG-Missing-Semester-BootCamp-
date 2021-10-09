@@ -1,0 +1,13 @@
+#include <algorithm>
+#include <vectror>
+using namespace std;
+bool compareFunc(int a,int b){
+    return a<b;
+}
+int main(){
+    vector<int> arr={7,5,6,4,8,2};
+    sort(arr.begin(),arr.end(),compareFunc);
+    for(int x:arr){
+        cout<<x<<endl;
+    }
+}
