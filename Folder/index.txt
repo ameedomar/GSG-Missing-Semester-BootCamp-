@@ -1,2 +1,8 @@
 Hi AbuSaa ("I Love U"); 
 Hello there ameed("I hate U <3");
+
+int main(){
+    while(var < 10^6){
+        print("ameed is not a good person");
+    }
+}
